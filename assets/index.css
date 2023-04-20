@@ -53,3 +53,13 @@ img {
 #film-info {
   padding-bottom: 15px;
 }
+
+.navList {
+  background-color: red;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: white;
+  padding: 4px 8px;
+  margin-left: 20px;
+}
